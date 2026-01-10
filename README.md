@@ -27,9 +27,12 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 ![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anant-anubhav&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anant-anubhav&layout=compact&theme=tokyonight)
+
 
 ---
 
