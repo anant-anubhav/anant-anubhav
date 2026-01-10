@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there 👋 I'm Anant Anubhav
 
-<!--
-**anant-anubhav/anant-anubhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Certified Data Scientist with hands-on experience in building end-to-end Machine Learning solutions  
+💡 Passionate about transforming data into actionable insights  
+🚀 Interested in ML Engineering, Data Science & AI-driven products  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- **Languages & Databases:** Python, SQL, MongoDB, PostgreSQL  
+- **Machine Learning:** Scikit-learn, Pandas, NumPy, Statistics  
+- **Deep Learning:** TensorFlow, Keras, PyTorch  
+- **Domains:** NLP, Computer Vision  
+- **Deployment & Tools:** Streamlit, Git, GitHub, Docker (basic)
+
+---
+
+### 📌 Featured Projects
+- 🚲 **Bike Rental Demand Prediction**  
+  End-to-end ML project with EDA, feature engineering, model comparison and deployment  
+- 🕵️ **Fraud Detection System**  
+  Built ML models to detect fraudulent transactions on large-scale datasets  
+- 🏠 **House Price Prediction**  
+  Regression-based ML project with data preprocessing and evaluation  
+
+👉 Check out my pinned repositories below 👇
+
+---
+
+### 📊 GitHub Stats
+![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anant-anubhav&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anant-anubhav&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/anant-anubhav  
+- 🌐 Portfolio: https://anantanubhav.site  
+- 📧 Email: anantanubhav02@gmail.com  
+
+---
+
+✨ Always learning, building, and improving one project at a time.
