@@ -27,11 +27,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anant-anubhav&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anant-anubhav&layout=compact&theme=tokyonight)
+### 🚀 What I Focus On
+- Building end-to-end Machine Learning projects
+- Writing clean, production-ready code
+- Learning and applying data science best practices
 
 
 ---
